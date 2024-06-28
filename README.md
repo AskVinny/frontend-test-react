@@ -6,7 +6,7 @@
 ## The Task
 The interview task involves enhancing the user interaction within the application by allowing users to submit their email addresses. This functionality is part of a broader feature set aimed at improving communication and management capabilities within the app. The implementation details are specified in the `src/App.tsx` file, where an email input field and a submission button are added to the user interface.
 
-Candidates are required to record their resolution to this problem in real time, and it's expected to take under 45 minutes. Please speak outloud whilst solving so we can understand your thought process. (Common screen recording tools like Loom will suffice, contact the hiring manager if you need help with this.)
+Candidates are required to record their resolution to this problem in real time, and it's expected to take under 45 minutes. Please speak out loud whilst solving so we can understand your thought process. (Common screen recording tools like Loom will suffice, contact the hiring manager if you need help with this.)
 
 Avoid using any external libraries or frameworks, and stick to the vanilla JS/TS stack. Also avoid using AI assistants like CoPilot or ChatGPT, as this is not what we're looking for here - any use of this will likely result in failure of the assessment. 
 
@@ -17,6 +17,6 @@ This project is set up using React and TypeScript, and it utilizes Vite as the b
 - `npm run build`: Compiles the TypeScript code and builds the static files for production.
 - `npm run preview`: Serves the built static files for previewing before deployment.
 
-To get started with the project, clone the repository, install the dependencies using `npm install`, and then you can begin development by running `npm run dev`.
+To get started with the project, clone the repository using `git clone [repository-url]`, install the dependencies using `npm install`, and then you can begin development by running `npm run dev`. After completing the task, please push your changes to a new repository and provide the URL of your final repository as part of your submission.
 
 
